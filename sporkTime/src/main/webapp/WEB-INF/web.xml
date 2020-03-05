@@ -3,7 +3,7 @@
   <display-name>sporkTime</display-name>
  <servlet>
   	<servlet-name>hello</servlet-name>
-  	<servlet-class>com.richard.servlet.HelloServlet</servlet-class>
+  	<servlet-class>com.ian.sporkTime.HelloServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>hello</servlet-name>
